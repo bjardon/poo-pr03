@@ -1,0 +1,17 @@
+./TresDMatriz/TresDMatrizPOO/Matriz3D.java
+./TresDMatriz/TresDMatrizPOO/TresDMatriz.java
+./TresDMatriz/TresDMatrizEstructurado/TresDMatriz.java
+./Palindromos/MenuPalindromos.java
+./Palindromos/VerificadorDePalindromos.java
+./Palindromos/Palindromos.java
+./CreditoPOO/CreditoPOO.java
+./CreditoPOO/Cliente.java
+./DosDim/DosDimEstructurado/DosDim.java
+./DosDim/DosDimPOO/DosDimPOO.java
+./DosDim/DosDimPOO/MatrizTriangular.java
+./ConvertidorTiposPOO/ConvertirTipos.java
+./ConvertidorTiposPOO/MenuConvertidor.java
+./ConvertidorTiposPOO/Convertidor.java
+./Matrix/MatrixPOO/MatrixPOO.java
+./Matrix/MatrixPOO/MatrizP.java
+./Matrix/MatrixEstructurado/Matrix.java
